@@ -18,5 +18,15 @@
 
 ## Start app
   Double click on PMS.exe
+  For first use only, user need to link pms app with database, there are two ways to do this:
+  1. Set connection informations on right form;
+  2. If you are not administrator of PMS app you can ask the adminstrator for database for the key of connection string and put it on the right textbox.
+  To Genretae this key Run PMS app > Admin > Db connection
+
+    ![database setup form][pms1]
+
+[pms1]: https://github.com/maniabrahim/pms.exe/blob/master/readme/1.PNG "database setup form"
+
 ## Connection string for demo database
-GmSmyPNKMB3mVNqArrvwLM8C2ax6EUSq2geh279KtjFGQyBc0+YqE0OeLFGuc2iBbTtbcu2zqfTVvMueTj9B+sQ6v1QacuAc5Pz/PorZt875e2S3fDJg+PJO3zA3dqHmHZKyHRdpYncrD2bxRzcN1KJ/Xc5cYMeo/3s+9FBcGfpYkgH/VsD2CQ4Q710OXu8xvV/2wrPNZgrhe6ATvsaJq7GRooLeTG6W+NRjDyZZENGHDMVyeBc0drE9I0TjHB4z
+  Without installing database, you can you use the following key to try PMS app
+  GmSmyPNKMB3mVNqArrvwLM8C2ax6EUSq2geh279KtjFGQyBc0+YqE0OeLFGuc2iBbTtbcu2zqfTVvMueTj9B+sQ6v1QacuAc5Pz/PorZt875e2S3fDJg+PJO3zA3dqHmHZKyHRdpYncrD2bxRzcN1KJ/Xc5cYMeo/3s+9FBcGfpYkgH/VsD2CQ4Q710OXu8xvV/2wrPNZgrhe6ATvsaJq7GRooLeTG6W+NRjDyZZENGHDMVyeBc0drE9I0TjHB4z
