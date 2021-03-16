@@ -17,7 +17,7 @@
 
 
 ## Start app
-  Double click on PMS.exe
+  Double click on PMS.exe.
   For first use only, user need to link pms app with database, there are two ways to do this:
   1. Set connection informations on right form;
   2. If you are not administrator of PMS app you can ask the adminstrator for database for the key of connection string and put it on the right textbox.
